@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidMenus</string>
+    <string-array name="hero_names">
+        <item>lee min ho</item>
+        <item>park jimin</item>
+        <item>ji chang gook</item>
+        <item>Lee Rang</item>
+        <item>park saroyi</item>
+    </string-array>
+</resources>

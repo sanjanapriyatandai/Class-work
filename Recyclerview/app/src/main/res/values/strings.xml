@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyRecyclerview</string>
+    <string-array name="title">
+        <item>Templerun</item>
+        <item>Subwaysurf</item>
+        <item>Endlessrun</item>
+        <item>Temple3D</item>
+        <item>Joinclash3D</item>
+        <item>Candycrush</item>
+        <item>Matchcandy</item>
+        <item>Candyfever</item>
+        <item>Kingcraft</item>
+        <item>Candysagacrush</item>
+
+    </string-array>
+    <string-array name="subtitle">
+       <item>Running</item>
+       <item>Surfing</item>
+       <item>Running</item>
+       <item>Running</item>
+       <item>Running</item>
+       <item>Crushing</item>
+       <item>Candy</item>
+       <item>Candy</item>
+       <item>Candy</item>
+       <item>Candy</item>
+            </string-array>
+
+</resources>

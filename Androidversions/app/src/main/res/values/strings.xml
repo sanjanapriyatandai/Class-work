@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MyRecyclerview</string>
+    <string-array name="title">
+        <item>Nocodename</item>
+        <item>Nocodename1</item>
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>IceCreamSandwich</item>
+        <item>Jellybean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmellow</item>
+        <item>Nougat</item>
+        <item>Nougat1</item>
+        <item>Oreo</item>
+        <item>Oreo1</item>
+        <item>Pie</item>
+        <item>Android 10</item>
+        <item>Android 11</item>
+    </string-array>
+    <string-array name="subtitle">
+        <item>version 1.0</item>
+        <item>version 1.1</item>
+        <item>version 1.5</item>
+        <item>version 1.6</item>
+        <item>version 2.0-2.1</item>
+        <item>version 2.2-2.2.3</item>
+        <item>version 2.3-2.3.7</item>
+        <item>version 3.0-3.2.6</item>
+        <item>version 4.0-4.0.4</item>
+        <item>version 4.1-4.3.1</item>
+        <item>version 4.4-4.4.4</item>
+        <item>version 5.0-5.1.1</item>
+        <item>version 6.0-6.0.1</item>
+        <item>version 7.0</item>
+        <item>version 7.1.0-7.1.2</item>
+        <item>version 8.0</item>
+        <item>version 8.1</item>
+        <item>version 9.0</item>
+        <item>version 10.0</item>
+        <item>version 11</item>
+    </string-array>
+
+</resources>
